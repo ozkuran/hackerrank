@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Oper
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsExploration", "MarsExploration\MarsExploration.csproj", "{3BFEF861-E1FB-4FBD-A3A6-7DF0CB7A50E3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "euler007", "euler007\euler007.csproj", "{4C5B6929-DBCD-46C4-BB3C-462788614289}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{3BFEF861-E1FB-4FBD-A3A6-7DF0CB7A50E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BFEF861-E1FB-4FBD-A3A6-7DF0CB7A50E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BFEF861-E1FB-4FBD-A3A6-7DF0CB7A50E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C5B6929-DBCD-46C4-BB3C-462788614289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C5B6929-DBCD-46C4-BB3C-462788614289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C5B6929-DBCD-46C4-BB3C-462788614289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C5B6929-DBCD-46C4-BB3C-462788614289}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
