@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeekOfCode28.BoatTrip", "We
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeekOfCode28.TheGreatXOR", "WeekOfCode28.TheGreatXOR\WeekOfCode28.TheGreatXOR.csproj", "{E0F816B9-AAA1-49E2-B1DC-3E5CE2DBAD06}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeekOfCode28.LuckyNumberEight", "WeekOfCode28.LuckyNumberEight\WeekOfCode28.LuckyNumberEight.csproj", "{067497EB-968A-4D9E-9075-98C6AFDB558E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{E0F816B9-AAA1-49E2-B1DC-3E5CE2DBAD06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0F816B9-AAA1-49E2-B1DC-3E5CE2DBAD06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0F816B9-AAA1-49E2-B1DC-3E5CE2DBAD06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{067497EB-968A-4D9E-9075-98C6AFDB558E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{067497EB-968A-4D9E-9075-98C6AFDB558E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{067497EB-968A-4D9E-9075-98C6AFDB558E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{067497EB-968A-4D9E-9075-98C6AFDB558E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
